@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ryan
-- 👀 I’m interested in applying bioinformatics to omics data in the context of human disease
-- 🌱 I’m currently learning how to analyze scRNA-seq and other forms of biological data using R
+- 👀 I’m interested in applying bioinformatics methods to omics data in the context of human disease, namely cancer
+- 🌱 I'm a currently a 5th year MD/PhD student @ The University of Iowa
+- 📖 I hope to help develop deep learning solutions to better understanding treatment selection and optimize treatment of cancer patients
 - 📫 How to reach me on X @Ryan_J_Reis
 
 <!---
